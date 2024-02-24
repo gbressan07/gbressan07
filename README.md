@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @gbressan07
 - 👀 I’m interested in Almost everything 
 - 🌱 I’m currently learning As much as i can
-- 💞️ I’m looking to collaborate on back-end projects 
+- 💞️ I’m looking to collaborate on front-end projects 
 - 📫 How to reach me: gbressandev@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: My favorite game its Battlefield 2
 
 <!---
